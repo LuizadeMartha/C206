@@ -5,7 +5,7 @@ public abstract class  RedeSocial {
 
     public void curtirPublicacao(){
 
-        System.out.println("Curtiu uma publicação ");
+        System.out.println("Curtiu uma publicação no ");
     }
 
     abstract public void postarFoto();
