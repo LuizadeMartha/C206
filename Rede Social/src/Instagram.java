@@ -7,7 +7,7 @@ public class Instagram extends RedeSocial{
     @Override
     public void curtirPublicacao() {
         super.curtirPublicacao();
-        System.out.println("no Instagram !!");
+        System.out.println(" Instagram !!");
 
     }
 
