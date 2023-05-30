@@ -17,7 +17,7 @@ public class GooglePlus extends RedeSocial implements VideoConferencia, Comparti
     @Override
     public void curtirPublicacao() {
         super.curtirPublicacao();
-        System.out.println("no Google Plus !!");
+        System.out.println(" Google Plus !!");
 
     }
 
