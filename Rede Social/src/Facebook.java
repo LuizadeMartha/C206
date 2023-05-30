@@ -17,7 +17,7 @@ public class Facebook extends RedeSocial implements  VideoConferencia, Compartil
     @Override
     public void curtirPublicacao() {
         super.curtirPublicacao();
-        System.out.println("no facebook !!");
+        System.out.println(" facebook !!");
     }
 
     @Override
