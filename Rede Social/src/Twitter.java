@@ -12,7 +12,7 @@ public class Twitter extends RedeSocial implements Compartilhamento{
     @Override
     public void curtirPublicacao() {
         super.curtirPublicacao();
-        System.out.println("no Twitter !!");
+        System.out.println(" Twitter !!");
 
     }
 
